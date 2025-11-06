@@ -39,29 +39,18 @@
 
 ---
 
-## 💻 Skills Progress
 
-<div align="left">
-  <p>Python</p>
-  <img src="https://progress-bar.dev/90/?title=Python" />
-
-  <p>C / C++</p>
-  <img src="https://progress-bar.dev/85/?title=C%2FC%2B%2B" />
-
-  <p>Flutter & Dart</p>
-  <img src="https://progress-bar.dev/75/?title=Flutter" />
-
-  <p>VLSI Design</p>
-  <img src="https://progress-bar.dev/70/?title=VLSI" />
-
-  <p>Machine Learning</p>
-  <img src="https://progress-bar.dev/80/?title=ML" />
-
-  <p>Embedded Systems</p>
-  <img src="https://progress-bar.dev/75/?title=Embedded" />
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWl1aHYzb2JqNmtnM2FtMGl1a3k3eTd2YnE4cXJ1eTY1YTNndDBiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" />
 </div>
 
----
+> First, solve the problem. Then, write the code.” – John Johnson
+> “Talk is cheap. Show me the code.” – Linus Torvalds
+>“Simplicity is the soul of efficiency.” – Austin Freeman
+
+
+
+
 
 ## 🔥 My GitHub Stats
 
