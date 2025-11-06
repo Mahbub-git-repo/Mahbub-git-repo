@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="200px" align="center">
-      <img src="https://your-image-url.com/yourphoto.jpg" alt="Mohammed Mahbub Alam" width="180" style="border-radius:50%" />
+      <img src="https://raw.githubusercontent.com/Mahbub-git-repo/Mahbub-git-repo/refs/heads/main/my_passport_photo.jpg" alt="Mohammed Mahbub Alam" width="180" style="border-radius:50%" />
     </td>
     <td valign="top">
       <h1>Hi 👋, I'm Mohammed Mahbub Alam</h1>
